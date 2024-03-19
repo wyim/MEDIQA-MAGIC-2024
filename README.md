@@ -27,7 +27,7 @@ https://github.com/reddit-archive/reddit/wiki/OAuth2
 
 https://www.honchosearch.com/blog/seo/how-to-use-praw-and-crawl-reddit-for-subreddit-post-data
 
-2. Edit the a credentials.json file to use your own reddit developer account credentials. It should look something like the following:
+2. Edit the a credentials.yaml file to use your own reddit developer account credentials. It should look something like the following:
 
 credentials.yaml
 ```
