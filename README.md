@@ -39,7 +39,7 @@ SECRET_TOKEN: '<YOUR-SECRET-TOKEN>'
 
 https://github.com/praw-dev/praw
 
-4. Call the download and preprocess script using the encounter list mediqa-magic_{train,valid,test}.lst
+4. Call the download and preprocess script using the encounter list mediqa-magic_{train,valid,test}_{answersonly,inputonly}.json
 
 ```
 download_and_preprocess_mediqa-magic.py <path-to-credentials> <path-to-postids>
